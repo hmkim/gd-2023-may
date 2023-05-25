@@ -41,7 +41,3 @@ dependencies {
 	// https://mvnrepository.com/artifact/com.google.guava/guava
 	implementation group: 'com.google.guava', name: 'guava', version: '31.1-jre'
 }
-
-test {
-	useJUnitPlatform()
-}
