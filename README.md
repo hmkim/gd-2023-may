@@ -1,5 +1,5 @@
 ## **작업해야되는 파일들**
-
+me
 - frontend to backend reference : *frontend/src/app-config.js*
 - backend to database : *backend/src/main/resources/application.properties*
 - backend CORS configuration file : *backend/src/main/java/com/example/demo/config/WebMvcConfig.java*
